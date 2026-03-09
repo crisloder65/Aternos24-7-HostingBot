@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "crisloder65-BCmu.aternos.me",
+    "port": 64016,
     "version": "1.21.1"
   },
   "position": {
@@ -64,7 +64,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -73,8 +73,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,

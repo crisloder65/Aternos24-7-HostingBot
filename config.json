@@ -1,0 +1,26 @@
+{
+  "name": "AFK Bot",
+  "bot-account": {
+    "username": "AFK_Bot_Pro",
+    "password": "",
+    "type": "offline"
+  },
+  "server": {
+    "ip": "crisloder65-BCmu.aternos.me",
+    "port": 64016,
+    "version": "1.21.1"
+  },
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "chalol78"
+    },
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 10000
+  }
+}
